@@ -1,0 +1,83 @@
+.container{
+    box-sizing: border-box;
+
+position: absolute;
+width: 336px;
+height: 236px;
+left: 408px;
+top: 232px;
+
+border: 1px solid #C4C4C4;
+border-radius: 10px;
+}
+.yazi{
+    box-sizing: border-box;
+
+position: absolute;
+width: 286px;
+height: 40px;
+margin-left: 28px;
+margin-top: 117px;
+
+border: 1px solid #C4C4C4;
+border-radius: 10px;
+}
+.sari{
+    position: absolute;
+width: 333px;
+height: 28px;
+margin-left: -1px;
+margin-top: -px;
+
+background: #FFDC40;
+border: 0.5px solid #C4C4C4;
+border-radius: 8px;
+}
+h1{
+    width: 198px;
+height: 34px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 26px;
+line-height: 30px;
+text-align: center;
+text-transform: capitalize;
+
+color: #000000;
+margin-left: 69px;
+margin-top: 41px;
+}
+.circle{
+    width: 42px;
+height: 42px;
+left: 500px;
+top: 407px;
+
+background: #9953F1;
+border-radius: 71px;
+margin-left: 92px;
+margin-top: 80px
+}
+.addBtn{
+    width: 150px;
+    height: 42px;
+margin-left: -46px;
+    
+    background: #833AE0;
+    border-radius: 71px;  
+    margin-bottom: 99px;
+}
+.deleteButton{
+    box-sizing: border-box;
+
+position: absolute;
+width: 20px;
+height: 20px;
+margin-left: 250px;
+margin-top: -10px;
+
+border: 1px solid #C4C4C4;
+border-radius: 71px;
+
+}
